@@ -1,5 +1,5 @@
 # Aplicación Inteligente de Gestión de Inventarios FullStack - DevSenior
-Aquí se encuentra la construcción de una aplicación inteligente de gestión de inventarios empresarial Full-Stack con Spring Boot, Angular &amp; AI. Contando con 3 principales partes de su desarrollo.
+Aquí se encuentra la construcción de una aplicación inteligente de gestión de inventarios empresarial Full-Stack con Spring Boot, Angular &amp; AI. Contando con 3 principales partes en su desarrollo.
 
 ## Parte1: El Backend y la Arquitectura Empresarial
 **Objetivo Alcanzado**: Sentar las bases del desarrollo backend con Spring Boot y mostrar cómo la IA puede agilizar la creación de APIs.
